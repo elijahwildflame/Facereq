@@ -1,12 +1,12 @@
 {
   "name": "facereq",
   "version": "1.0.0",
-  "description": "face reqconition app",
+  "description": "Face Reqconition app",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "alexadner",
+  "author": "sammy",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
