@@ -28,6 +28,30 @@ body{
     font-family: 'ZCOOL XiaoWei', sans-serif;
 }
 
+div {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.fileFieldstyled__InputField-sc-1opstyj-0 dJdQPZ Inputstyled__Input-dpve8l-0 bjPklg {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.Collapsiblestyled__Icon-sc-1jnyd9z-4 dncCfV {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+form {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
 p{
     color: #E64A19;
     font-family: 'ZCOOL XiaoWei', sans-serif;
