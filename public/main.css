@@ -1,3 +1,147 @@
+<<<<<<< HEAD
 body{
     
+=======
+h1 {
+    font-size: 30px; 
+    color: #ff3333;
+    margin-bottom: 0;
+    font-weight: normal;
+    font-family: 'ZCOOL XiaoWei', sans-serif;
+}
+
+h3{
+    font-size: 30px;
+    color: #ff3333;
+    margin-bottom: 0;
+    font-weight: normal;
+    font-family: 'ZCOOL XiaoWei', sans-serif;
+}
+
+h4 {
+    font-size: 30px;
+    color: #ff3333;
+    margin-bottom: 0;
+    font-weight: normal;
+    font-family: 'ZCOOL XiaoWei', sans-serif;
+}
+
+body{
+    width: 600px;
+    margin: 0 auto;
+    font-family: 'ZCOOL XiaoWei', sans-serif;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.formstyled__CollapsibleSection-sc-10y31ts-3 hyZraS {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.Collapsiblestyled__GroupContainer-sc-1jnyd9z-0 kBjymV FlexLayouts__FlexColStartCenter-sc-1j19v2f-14 VEvFu {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.Collapsiblestyled__TitleWrapper-sc-1jnyd9z-3 lhcnhb FlexLayouts__FlexRowStartCenter-sc-1j19v2f-9 itUPwi {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.Collapsiblestyled__Icon-sc-1jnyd9z-4 dncCfV {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.Collapsiblestyled__Title-sc-1jnyd9z-5 eMpQWR {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.Collapsiblestyled__ItemsContainerSimple-sc-1jnyd9z-2 KSQKE {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.ParameterFieldstyled__Wrapper-te6qkc-0 cIZoPn FlexLayouts__FlexRowStartStart-sc-1j19v2f-10 hsRtid {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.ParameterFieldstyled__Left-te6qkc-1 gXtpZU FlexLayouts__FlexColSpaceBetweenStart-sc-1j19v2f-12 ciNpWW {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.ParameterFieldstyled__ParameterName-te6qkc-3 fzgXbi {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.ParameterFieldstyled__ParameterType-te6qkc-4 dcrgiO {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.ParameterFieldstyled__Right-te6qkc-2 dNMxgJ FlexLayouts__FlexColStartStart-sc-1j19v2f-15 jEvgCS {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.fileFieldstyled__InputField-sc-1opstyj-0 dJdQPZ Inputstyled__Input-dpve8l-0 bjPklg {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+#53aa4928e4b0a9b1348da006 {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.ParameterFieldstyled__ParameterDescriptionSection-te6qkc-5 fHAgDa FlexLayouts__FlexRowStartStart-sc-1j19v2f-10 hsRtid {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.ParameterFieldstyled__Required-te6qkc-6 jxgPxy {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+.ParameterFieldstyled__ParameterDescription-te6qkc-7 deURHR {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+form {
+    width: 600px;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+p{
+    color: #E64A19;
+    font-family: 'ZCOOL XiaoWei', sans-serif;
+>>>>>>> b81f326d1595ff19154d8728498d502e826cffa2
 }
