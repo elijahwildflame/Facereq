@@ -16,7 +16,7 @@ app.use(express.static("./public"));
 app.use(bodyParser.urlencoded({ extended: false }));
 
 app.get("/", function(req, res) {
-  res.render("home.ejs");
+  res.render("home.ejs", { body: null });
 });
 
 // handling POST root
@@ -38,6 +38,7 @@ app.post("/", function(req, res) {
     if (error) throw new Error(error);
 
     console.log(body);
+    res.render("home.ejs", { body });
   });
 });
 

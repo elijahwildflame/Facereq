@@ -1,24 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="main.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <link
+      href="https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="main.css" />
     <title>Face | Recognition</title>
-</head>
-<body>
-    <div class= "container">
-        <form action="/" method="POST">
-            <input name="Picture" class="ghost-input" type="text" placeholder="Add Image">
-            <input class="ghost-button" type="submit" value="Submit">
-        </form>
+  </head>
+  <h1>Facial Recognition</h1>
 
-        <% %>
-            <p><%=  %></p>
-        <% %>
-            <p><%= %></p>
-        <% %>
-    </div>
-</body>
+  <body>
+    <h3>Facial Atractiveness Scores</h3>
+    <h4>Score – [0.0 ~ 3.9]</h4>
+    <p>
+      With this face analysis score, the results may determine a very
+      unattractive face because there is hardly any symmetry with the features.
+      It also may not be human or the coordinates are placed incorrectly.
+    </p>
+    <h4>Score – [4.0 ~ 4.9]</h4>
+    <p>
+      With this face analysis score, the results determine a very unattractive
+      face as the symmetry is farther off than the average photo.
+    </p>
+    <h4>Score – [5.0 ~ 5.9]</h4>
+    <p>
+      With this face analysis score, the results determine an unattractive face
+      because the symmetry is not inline.
+    </p>
+    <h4>Score – [6.0 ~ 6.9]</h4>
+    <p>
+      With this face analysis score, the results determine an average face
+      because the facial symmetry is almost there.
+    </p>
+    <h4>Score – [7.0 ~ 7.9]</h4>
+    <p>
+      With this face analysis score, the results may determine an attractive
+      face because the symmetry is close to perfect.
+    </p>
+    <h4>Score – [8.0 ~ 8.9]</h4>
+    <p>
+      With this face analysis score, the results may determine a very attractive
+      face because the features are very exact.
+    </p>
+    <h4>Score – [9.0 ~ 10]</h4>
+    <p>
+      With this face analysis score, the results are unrealistic because you may
+      be super beautiful or your photo is already retouched.
+    </p>
+    <form action="/" method="POST">
+      <input
+        type="file"
+        class="fileFieldstyled__InputField-sc-1opstyj-0 dJdQPZ Inputstyled__Input-dpve8l-0 bjPklg"
+        id="53aa4928e4b0a9b1348da006"
+      />
+      <input class="ghost-button" type="submit" value="Submit" />
+    </form>
+
+    <% %>
+    <p><%= body %></p>
+    <% %>
+    <p><%= %></p>
+    <% %>
+  </body>
 </html>
